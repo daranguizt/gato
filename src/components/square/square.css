@@ -1,0 +1,22 @@
+.square{
+    margin: 0;
+    padding: 0;
+    width: 110px;
+    height: 110px;
+    border: none;
+    background-color: transparent;
+}
+
+.square:hover{
+    cursor: pointer;
+    background-color: rgb(122, 198, 218)
+}
+
+.square:active{
+    background-color: rgb(32, 82, 105);
+}
+
+img{
+    width: 90%;
+    height: 90%;
+}
